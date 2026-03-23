@@ -1,0 +1,6 @@
+{
+  "allowedDeprecatedVersions": {},
+  "onlyBuiltDependencies": [
+    "esbuild"
+  ]
+}
